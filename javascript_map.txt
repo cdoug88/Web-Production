@@ -3,3 +3,5 @@
 2.Styling is needed via JSON file or script
 
 3.added the code for pin/s
+
+4. add css in order to style the maps height and width on the website.
