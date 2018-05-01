@@ -1,0 +1,5 @@
+1.Google Map API is needed
+
+2.Styling is needed via JSON file or script
+
+3.added the code for pin/s
